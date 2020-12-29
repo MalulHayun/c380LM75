@@ -1,4 +1,6 @@
 
+// write by Avi Hayun 29/12/2020
+
 #include "compiler_defs.h"
 #include "C8051F380_defs.h"
 #include "lcd_4bit.h"
